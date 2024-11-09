@@ -1,0 +1,10 @@
+C:\Users\Shredpap\source\repos\Shape\Shape\bin\Debug\Shape.exe.config
+C:\Users\Shredpap\source\repos\Shape\Shape\bin\Debug\Shape.exe
+C:\Users\Shredpap\source\repos\Shape\Shape\bin\Debug\Shape.pdb
+C:\Users\Shredpap\source\repos\Shape\Shape\obj\Debug\Shape.csproj.AssemblyReference.cache
+C:\Users\Shredpap\source\repos\Shape\Shape\obj\Debug\Shape.Form1.resources
+C:\Users\Shredpap\source\repos\Shape\Shape\obj\Debug\Shape.Properties.Resources.resources
+C:\Users\Shredpap\source\repos\Shape\Shape\obj\Debug\Shape.csproj.GenerateResource.cache
+C:\Users\Shredpap\source\repos\Shape\Shape\obj\Debug\Shape.csproj.CoreCompileInputs.cache
+C:\Users\Shredpap\source\repos\Shape\Shape\obj\Debug\Shape.exe
+C:\Users\Shredpap\source\repos\Shape\Shape\obj\Debug\Shape.pdb

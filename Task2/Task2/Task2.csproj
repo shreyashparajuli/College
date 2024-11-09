@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<TargetFramework>net8.0-windows</TargetFramework>
+		<!-- Add -windows to the TargetFramework -->
+		<UseWindowsForms>true</UseWindowsForms>
+		<!-- Ensure WindowsForms is enabled -->
+	</PropertyGroup>
+</Project>
