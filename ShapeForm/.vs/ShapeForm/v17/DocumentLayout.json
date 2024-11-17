@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{119B91B2-739E-4105-A3EE-9546D0C8E387}|ShapeForm\\ShapeForm.csproj|solutionrelative:shapeform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{119B91B2-739E-4105-A3EE-9546D0C8E387}|ShapeForm\\ShapeForm.csproj|c:\\users\\shredpap\\source\\repos\\shapeform\\shapeform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{119B91B2-739E-4105-A3EE-9546D0C8E387}|ShapeForm\\ShapeForm.csproj|C:\\Users\\Shredpap\\source\\repos\\ShapeForm\\shapeform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{119B91B2-739E-4105-A3EE-9546D0C8E387}|ShapeForm\\ShapeForm.csproj|solutionrelative:shapeform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{119B91B2-739E-4105-A3EE-9546D0C8E387}|ShapeForm\\ShapeForm.csproj|c:\\users\\shredpap\\source\\repos\\shapeform\\shapeform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{119B91B2-739E-4105-A3EE-9546D0C8E387}|ShapeForm\\ShapeForm.csproj|C:\\Users\\Shredpap\\source\\repos\\ShapeForm\\shapeform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{119B91B2-739E-4105-A3EE-9546D0C8E387}|ShapeForm\\ShapeForm.csproj|solutionrelative:shapeform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -22,11 +22,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Shredpap\\source\\repos\\ShapeForm\\ShapeForm\\Form1.cs",
+              "RelativeDocumentMoniker": "ShapeForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\Shredpap\\source\\repos\\ShapeForm\\ShapeForm\\Form1.cs",
+              "RelativeToolTip": "ShapeForm\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T15:05:31.673Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -36,22 +45,9 @@
               "RelativeDocumentMoniker": "ShapeForm\\Form1.Designer.cs",
               "ToolTip": "C:\\Users\\Shredpap\\source\\repos\\ShapeForm\\ShapeForm\\Form1.Designer.cs",
               "RelativeToolTip": "ShapeForm\\Form1.Designer.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAhwCcAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-17T15:07:44.676Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Shredpap\\source\\repos\\ShapeForm\\ShapeForm\\Form1.cs",
-              "RelativeDocumentMoniker": "ShapeForm\\Form1.cs",
-              "ToolTip": "C:\\Users\\Shredpap\\source\\repos\\ShapeForm\\ShapeForm\\Form1.cs",
-              "RelativeToolTip": "ShapeForm\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T15:05:31.673Z",
               "EditorCaption": ""
             },
             {
