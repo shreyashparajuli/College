@@ -1,0 +1,10 @@
+C:\Users\Shredpap\source\repos\ShapeForm\ShapeForm\obj\Debug\ShapeForm.csproj.AssemblyReference.cache
+C:\Users\Shredpap\source\repos\ShapeForm\ShapeForm\obj\Debug\ShapeForm.Circle.resources
+C:\Users\Shredpap\source\repos\ShapeForm\ShapeForm\obj\Debug\ShapeForm.Properties.Resources.resources
+C:\Users\Shredpap\source\repos\ShapeForm\ShapeForm\obj\Debug\ShapeForm.csproj.GenerateResource.cache
+C:\Users\Shredpap\source\repos\ShapeForm\ShapeForm\obj\Debug\ShapeForm.csproj.CoreCompileInputs.cache
+C:\Users\Shredpap\source\repos\ShapeForm\ShapeForm\bin\Debug\ShapeForm.exe.config
+C:\Users\Shredpap\source\repos\ShapeForm\ShapeForm\bin\Debug\ShapeForm.exe
+C:\Users\Shredpap\source\repos\ShapeForm\ShapeForm\bin\Debug\ShapeForm.pdb
+C:\Users\Shredpap\source\repos\ShapeForm\ShapeForm\obj\Debug\ShapeForm.exe
+C:\Users\Shredpap\source\repos\ShapeForm\ShapeForm\obj\Debug\ShapeForm.pdb
